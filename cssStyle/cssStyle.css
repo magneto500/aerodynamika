@@ -1,0 +1,28 @@
+
+.AerodynamicsDef{
+    color: rgb(129, 21, 21);
+    font-size: 17;
+    background-color: aqua;
+}
+.divAero{
+    color:rgb(0, 0, 0);
+    font-size: 16;
+}
+.aeros-dynamikós{
+    color: black;
+    font-style: italic;
+    font-size: 16;
+}
+.cfddef{
+    color: rgb(0, 0, 0);
+}
+.currenlty{
+    color: crimson;
+}
+.kropelka_www_css{
+    background-color: chartreuse;
+}
+.kropelkaImage{
+    font: optional;
+}
+
